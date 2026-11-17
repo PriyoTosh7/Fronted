@@ -1,0 +1,84 @@
+[
+  {
+    "file": "field.jpg",
+    "title": "Paddy field in Bangladesh (32901445855).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paddy_field_in_Bangladesh_(32901445855).jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paddy_field_in_Bangladesh_%2832901445855%29.jpg/1280px-Paddy_field_in_Bangladesh_%2832901445855%29.jpg",
+    "author": "Chand Ali from DHAKA, BANGLADESH",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Green paddy field in Bangladesh",
+    "modifications": "Wikimedia resized thumbnail; no content edits",
+    "bytes": 394967
+  },
+  {
+    "file": "rice.jpg",
+    "title": "Rice panicle in Bangladesh.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rice_panicle_in_Bangladesh.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Rice_panicle_in_Bangladesh.jpg/960px-Rice_panicle_in_Bangladesh.jpg",
+    "author": "Sajib5467",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Close-up photograph of a mature rice panicle (Oryza sativa) in a paddy field in Bangladesh.",
+    "modifications": "Wikimedia resized thumbnail; no content edits",
+    "bytes": 190016
+  },
+  {
+    "file": "tomato.jpg",
+    "title": "Red tomato (6951842889).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_tomato_(6951842889).jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Red_tomato_%286951842889%29.jpg/960px-Red_tomato_%286951842889%29.jpg",
+    "author": "Ton Rulkens from Mozambique",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "description": "Red cherry tomato, naturalised on Mount Garuso in Manica province, Mozambique. This plant has pubescent fruits.",
+    "modifications": "Wikimedia resized thumbnail; no content edits",
+    "bytes": 148848
+  },
+  {
+    "file": "potato.jpg",
+    "title": "CSIRO ScienceImage 4062 Potato plants on farm near Atherton QLD.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4062_Potato_plants_on_farm_near_Atherton_QLD.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/CSIRO_ScienceImage_4062_Potato_plants_on_farm_near_Atherton_QLD.jpg/960px-CSIRO_ScienceImage_4062_Potato_plants_on_farm_near_Atherton_QLD.jpg",
+    "author": "Willem van Aken, CSIRO",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Potato plants on farm near Atherton, QLD.",
+    "modifications": "Wikimedia resized thumbnail; no content edits",
+    "bytes": 275019
+  },
+  {
+    "file": "leaf-demo.jpg",
+    "title": "Early blight on tomato leaves (7871930010).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Early_blight_on_tomato_leaves_(7871930010).jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Early_blight_on_tomato_leaves_%287871930010%29.jpg/960px-Early_blight_on_tomato_leaves_%287871930010%29.jpg",
+    "author": "Dwight Sipler from Stow, MA, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Early blight on tomato leaves",
+    "modifications": "Wikimedia resized thumbnail; no content edits",
+    "bytes": 121075
+  },
+  {
+    "file": "font-bn.ttf",
+    "title": "notosansbengali",
+    "source": "https://github.com/google/fonts/blob/main/ofl/notosansbengali/NotoSansBengali[wdth,wght].ttf",
+    "download_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansbengali/NotoSansBengali%5Bwdth%2Cwght%5D.ttf",
+    "author": "Google Fonts contributors; see bundled OFL license",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "notosansbengali-OFL.txt",
+    "modifications": "Unmodified variable TrueType font",
+    "bytes": 463668
+  },
+  {
+    "file": "font-en.ttf",
+    "title": "manrope",
+    "source": "https://github.com/google/fonts/blob/main/ofl/manrope/Manrope[wght].ttf",
+    "download_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "author": "Google Fonts contributors; see bundled OFL license",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "manrope-OFL.txt",
+    "modifications": "Unmodified variable TrueType font",
+    "bytes": 164700
+  }
+]
